@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning coding
 - 📫 How to reach me sbsba2141@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: lightning is faster than jackson
+- ⚡ Fun fact: Mbappe is faster than Lightning
 
 <!---
 ssg1801/ssg1801 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
